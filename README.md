@@ -5,5 +5,5 @@ Max externals objects compiled to run [Somax2](https://github.com/DYCI2/Somax2) 
 * Download this repository
 * Go to Documents/Max 8/Packages/Somax2/externals
 * Paste here all the .mxo objects from this repository, replacing the old ones
-* Go to your Applications folder, select Max, right click it and select "Get Info"
+* Go to your Applications folder, select Max, right click on it and select "Get Info"
 * You can now deselect the "Open using Rosetta" option displayed here
